@@ -11,7 +11,7 @@ This **Currency Converter API** is a FastAPI-based microservice designed for rea
 Clone the repository to get started:
 
 ```bash
-git clone https://github.com/dimond79/Currency-converter.git  
+git clone https://github.com/dimond79/FastAPI-currency-converter.git  
 cd Currency-converter  
 ```
 
