@@ -69,8 +69,4 @@ You can access the interactive API documentation at:
   https://v6.exchangerate-api.com/v6/YOUR_KEY/latest/USD  
   ```
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License.
